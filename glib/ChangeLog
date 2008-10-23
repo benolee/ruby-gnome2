@@ -1,5 +1,7 @@
 2008-10-23  Kouhei Sutou  <kou@cozmixng.org>
 
+	* src/rbglib.h (RBGLIB_MICRO_VERSION): 0.18.1 -> 0.18.2.
+
 	* src/rbglib.h (RBGLIB_MICRO_VERSION): 0.18.0 -> 0.18.1.
 
 2008-09-30  Andy Spencer
